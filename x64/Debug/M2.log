@@ -1,0 +1,5 @@
+﻿  Q1.c
+C:\Users\Dolev\Desktop\Education\שנה ב'\02. סמסטר ב\01.סי מתקדמים\04.מטלות\02.רשימות מקושרות\M2\Q1.c(83,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Dolev\Desktop\Education\שנה ב'\02. סמסטר ב\01.סי מתקדמים\04.מטלות\02.רשימות מקושרות\M2\Q1.c(176,23): warning C4133: '=': incompatible types - from 'WorkerList *' to 'Worker *'
+C:\Users\Dolev\Desktop\Education\שנה ב'\02. סמסטר ב\01.סי מתקדמים\04.מטלות\02.רשימות מקושרות\M2\Q1.c(195,52): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+  M2.vcxproj -> C:\Users\Dolev\Desktop\Education\שנה ב'\02. סמסטר ב\01.סי מתקדמים\04.מטלות\02.רשימות מקושרות\M2\x64\Debug\M2.exe
